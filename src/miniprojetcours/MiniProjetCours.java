@@ -18,7 +18,7 @@ public class MiniProjetCours {
      */
     public static void main(String[] args) {
 
-        // TODO code application logic here
+       
         /* Scanner clavier = new Scanner(System.in);
         try {
             System.out.println("Entrer le premier nombre : ");
@@ -31,7 +31,7 @@ public class MiniProjetCours {
             System.out.println("entrer un nombre SVP");
         }*/
         //int[] cote = new int[10]; //déclaration8
-        int [] cote ={0,1,2,3,4,5,6,7,8,9,10};
+        int [] cote ={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
         /*int i = 5;
         int j = ++i;
         int k = i++;
